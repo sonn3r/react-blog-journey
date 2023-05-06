@@ -1,0 +1,42 @@
+.headerTitles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Lora, serif;
+    color: #444;
+}
+
+.headerTitleSm {
+    position: relative;
+    top: 40px;
+    font-size: 50px;
+    color: brown;
+    text-shadow: #600f0f 1px 1px;
+    z-index: 2;
+    font-style: italic;
+}
+
+.headerTitleLg {
+    position: relative;
+    top: 50px;
+    font-size: 100px;
+    color: brown;
+    -webkit-text-stroke: 1px #600f0f;
+    text-shadow: #600f0f 2px 2px;
+    z-index: 2;
+}
+
+.headerImg {
+    position: relative;
+    top: -200px;
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+    z-index: 1;
+    margin-bottom: -150px;
+    filter: blur(2px);
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+
+}

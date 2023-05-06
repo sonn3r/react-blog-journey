@@ -1,0 +1,45 @@
+.single {
+    display: flex;
+}
+
+.video {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+}
+
+.singlePostDesc {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.icons {
+    display: grid;
+    justify-content: center;
+    flex-direction: column;
+    align-items: stretch;
+    font-size: 40px;
+    margin: 0;
+}
+
+.icons > a {
+    font-size: 34px;
+    text-decoration: none;
+    color: inherit;
+    color: #282c34;
+    margin-bottom: 50px;
+}
+
+.icons > a:hover {
+    color: black;
+    transform: scale(1.1);
+}
+
+.text {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}

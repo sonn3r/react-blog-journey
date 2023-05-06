@@ -1,0 +1,8 @@
+.single {
+    display: flex;
+}
+
+.singlePostDesc {
+    line-height: 40px;
+}
+
