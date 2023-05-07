@@ -16,16 +16,16 @@ function App() {
   <Router>
     <TopBar/>
     <Routes>
-      <Route path="/" element={<Home/>}></Route>
-      <Route path="/home" element={<Home/>}></Route>
-      <Route path="/about" element={<About/>}></Route>
-      <Route path="/contact" element={<Contact/>}></Route>
-      <Route path="/kyiv" element={<Kyiv/>}></Route>
-      <Route path="/hoverla" element={<Hoverla/>}></Route>
-      <Route path="/vinnytsia" element={<Vinnytsia/>}></Route>
-      <Route path="/usa" element={<USA/>}></Route>
-      <Route path="/bring" element={<Bring/>}></Route>
-      <Route path="/hotels" element={<Hotels/>}></Route>
+      <Route path="*" element={<Home/>}></Route>
+      <Route path="home" element={<Home/>}></Route>
+      <Route path="about" element={<About/>}></Route>
+      <Route path="contact" element={<Contact/>}></Route>
+      <Route path="kyiv" element={<Kyiv/>}></Route>
+      <Route path="hoverla" element={<Hoverla/>}></Route>
+      <Route path="vinnytsia" element={<Vinnytsia/>}></Route>
+      <Route path="usa" element={<USA/>}></Route>
+      <Route path="bring" element={<Bring/>}></Route>
+      <Route path="hotels" element={<Hotels/>}></Route>
     </Routes>
   </Router>
   );
