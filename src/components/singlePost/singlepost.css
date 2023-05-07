@@ -45,6 +45,15 @@
     margin: 0 400px;
 }
 
+@media (max-width: 1600px) {
+    .singlePostInfo {
+        margin: 0 20px;
+    }
+    .singlePostDesc {
+        margin: 0 20px;
+    }
+}
+
 .singlePostDesc:first-letter {
     margin-left: 20px;
     font-size: 30px;
