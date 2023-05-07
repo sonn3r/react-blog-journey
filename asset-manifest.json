@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-blog-journey/home/static/css/main.9b16a139.css",
-    "main.js": "/react-blog-journey/home/static/js/main.140c7ea6.js",
-    "static/media/mountain.png": "/react-blog-journey/home/static/media/mountain.e4b7ea52623dced671eb.png",
-    "static/media/usa2.jpg": "/react-blog-journey/home/static/media/usa2.38306a14f7c6dad6cce9.jpg",
-    "static/media/hood-irony-hood.gif": "/react-blog-journey/home/static/media/hood-irony-hood.b7a8ea50f4b535ea8060.gif",
-    "static/media/kyiv.jpg": "/react-blog-journey/home/static/media/kyiv.b5df8f50d56921a0a5b8.jpg",
-    "static/media/vinnitsia.jpg": "/react-blog-journey/home/static/media/vinnitsia.a1eeccaf181a33d26a0f.jpg",
-    "static/media/bring.webp": "/react-blog-journey/home/static/media/bring.18bc774cac5b53c9a0f3.webp",
-    "static/media/home.jpg": "/react-blog-journey/home/static/media/home.a56ebc9059d35d923d93.jpg",
-    "static/media/hotel2.avif": "/react-blog-journey/home/static/media/hotel2.22d9bc55585e77301c57.avif",
-    "static/media/hotel.jpg": "/react-blog-journey/home/static/media/hotel.09e44b7fe4be06888501.jpg",
-    "static/media/hoverla.jpg": "/react-blog-journey/home/static/media/hoverla.5377072401e9d0e8b7ca.jpg",
-    "static/media/pfphome.jpg": "/react-blog-journey/home/static/media/pfphome.cf19ff97aea36866426f.jpg",
-    "static/media/usa.jpg": "/react-blog-journey/home/static/media/usa.708c1a2a9e320ce814da.jpg",
-    "index.html": "/react-blog-journey/home/index.html",
-    "main.9b16a139.css.map": "/react-blog-journey/home/static/css/main.9b16a139.css.map",
-    "main.140c7ea6.js.map": "/react-blog-journey/home/static/js/main.140c7ea6.js.map"
+    "main.css": "/react-blog-journey/static/css/main.9b16a139.css",
+    "main.js": "/react-blog-journey/static/js/main.2e6c6447.js",
+    "static/media/mountain.png": "/react-blog-journey/static/media/mountain.e4b7ea52623dced671eb.png",
+    "static/media/usa2.jpg": "/react-blog-journey/static/media/usa2.38306a14f7c6dad6cce9.jpg",
+    "static/media/hood-irony-hood.gif": "/react-blog-journey/static/media/hood-irony-hood.b7a8ea50f4b535ea8060.gif",
+    "static/media/kyiv.jpg": "/react-blog-journey/static/media/kyiv.b5df8f50d56921a0a5b8.jpg",
+    "static/media/vinnitsia.jpg": "/react-blog-journey/static/media/vinnitsia.a1eeccaf181a33d26a0f.jpg",
+    "static/media/bring.webp": "/react-blog-journey/static/media/bring.18bc774cac5b53c9a0f3.webp",
+    "static/media/home.jpg": "/react-blog-journey/static/media/home.a56ebc9059d35d923d93.jpg",
+    "static/media/hotel2.avif": "/react-blog-journey/static/media/hotel2.22d9bc55585e77301c57.avif",
+    "static/media/hotel.jpg": "/react-blog-journey/static/media/hotel.09e44b7fe4be06888501.jpg",
+    "static/media/hoverla.jpg": "/react-blog-journey/static/media/hoverla.5377072401e9d0e8b7ca.jpg",
+    "static/media/pfphome.jpg": "/react-blog-journey/static/media/pfphome.cf19ff97aea36866426f.jpg",
+    "static/media/usa.jpg": "/react-blog-journey/static/media/usa.708c1a2a9e320ce814da.jpg",
+    "index.html": "/react-blog-journey/index.html",
+    "main.9b16a139.css.map": "/react-blog-journey/static/css/main.9b16a139.css.map",
+    "main.2e6c6447.js.map": "/react-blog-journey/static/js/main.2e6c6447.js.map"
   },
   "entrypoints": [
     "static/css/main.9b16a139.css",
-    "static/js/main.140c7ea6.js"
+    "static/js/main.2e6c6447.js"
   ]
 }
