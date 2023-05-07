@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sonnerlegend.github.io/react-blog-journey/home",
-  "name": "react-blog-journey",
+  "homepage": "https://sonnerlegend.github.io/react-blog-journey",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
